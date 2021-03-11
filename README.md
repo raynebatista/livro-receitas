@@ -4,4 +4,4 @@ Bem-vindo(a) ao livro de receitas da Rayne, feito através do curso de Git e Git
 
 Aqui você pode checar a receita de:
 
-- Molho branco gostoso e fácil
+- Molho branco gostoso e fácil (para qualquer massa)
